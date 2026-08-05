@@ -1,0 +1,9 @@
+# Personal profile — diet, household, habits. Deliberately untracked.
+PREFERENCES.md
+MADE_LOG.md
+
+# Downloaded recipe media, deleted after extraction but sometimes left behind
+*.mp4
+*.wav
+*.png
+sheet*.png
