@@ -11,11 +11,59 @@ both.
 
 Read two files before you start:
 
-- **[`PREFERENCES.md`](../../../PREFERENCES.md)** — diet, household size, everyday
-  baseline, components they skip. Untracked in git. Every scaling and substitution
+- **[`PREFERENCES.md`](../../../PREFERENCES.md)** — allergies, diet, kitchen, household
+  size, everyday baseline. Untracked in git. Every filter, scaling and substitution
   decision below depends on it.
 - **[`CLAUDE.md`](../../../CLAUDE.md)** — field conventions and the `qualities`
   vocabulary.
+
+## Step 0: is this a new user?
+
+**Check `PREFERENCES.md` before anything else.** Treat it as unset if it is missing,
+empty, still the template, or has sections left as `not yet asked`.
+
+If it's unset, **onboard first and suggest nothing until it's written.** A suggestion
+made without this file isn't a weaker suggestion — it's one that can recommend food
+someone is allergic to, can't cook, or won't eat. Say plainly that you're setting up
+the profile once so you don't have to ask every time, then run the interview.
+
+**The interview: two rounds of `AskUserQuestion`, batched.** (The one-round limit later
+in this file governs *refining a suggestion*, not onboarding.)
+
+Round 1 — the hard filters:
+
+1. **Allergies and intolerances** — `multiSelect`. Offer the common ones (nuts, dairy,
+   gluten, soy, sesame, shellfish, egg) plus "none". **Always ask this, never infer it,
+   and never skip it because the diet answer seems to cover it.** Vegetarian says
+   nothing about nuts.
+2. **Diet** — vegetarian, vegan, eggetarian, eats everything. Follow up on what should
+   happen to a recipe containing something they don't eat: substitute it, or skip the
+   recipe entirely? That single answer changes what gets *filed*, not just suggested.
+3. **Household size** — how many people they cook for.
+4. **Kitchen** — `multiSelect` over oven, air fryer, microwave, pressure cooker,
+   induction/gas hob. What they *lack* is the constraint that matters.
+
+Round 2 — the things that make suggestions good rather than merely safe:
+
+5. **Everyday baseline** — what they already eat most weeks. Without this, "something
+   different" has no reference point and gap analysis misfires.
+6. **Ingredients they don't buy** — canned goods, pre-made pastes, anything always made
+   from scratch.
+7. **Strong dislikes** — distinct from allergies. Coriander, mushrooms, blue cheese.
+
+Then **write `PREFERENCES.md`** from
+[`PREFERENCES.template.md`](PREFERENCES.template.md) in this skill's directory, filling
+every section. Record allergies as an explicit list or the literal words "None
+reported" — never leave it ambiguous whether the question was asked. Confirm `.gitignore`
+covers the file. Show them what you wrote, say it's editable by hand, and only then
+answer the original question.
+
+**Partial profiles:** if the file exists but the section you need is blank, ask about
+that one section rather than re-running the whole interview.
+
+**Allergies are a hard filter on every suggestion afterwards.** Read the full ingredient
+list, not just `key_ingredients` — allergens hide in `pantry_ingredients` and garnishes.
+`dietary: [contains-nuts]` is a summary, not a substitute for reading the recipe.
 
 ## Load the data
 
@@ -85,6 +133,10 @@ say no (time, an ingredient they'd have to buy, a component they skip).
 
 Then, in the same message:
 
+- **Screen against the allergy list first.** Drop anything containing a recorded
+  allergen before you rank, and read the full ingredient list to do it, not just
+  `key_ingredients`. Don't mention what you dropped unless they ask — a suggestion list
+  shouldn't dangle food they can't eat.
 - **Scale to the household size in `PREFERENCES.md`.** If the file says `serves: 4`,
   say "half of this" and spell out anything awkward to divide. Don't leave them doing
   the arithmetic.
@@ -170,6 +222,11 @@ Once they settle on one:
 
 ## Don't
 
+- **Don't suggest anything containing a recorded allergen**, and don't offer a
+  substitution as though it makes the dish safe unless it genuinely does. This applies
+  to recombinations too — a pairing you invented is as capable of carrying an allergen
+  as a filed recipe.
+- **Don't suggest from an unset `PREFERENCES.md`.** Onboard first. See Step 0.
 - Don't suggest anything from the everyday baseline in `PREFERENCES.md` as a "something
   different" answer — that's the thing being varied *from*. Reworkings are fine: kala
   chana in a [kebab](../../../recipes/kala-chana-galouti-kebab.md) or rajma in a

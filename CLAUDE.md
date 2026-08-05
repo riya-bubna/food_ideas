@@ -15,6 +15,11 @@ almost every judgement call here depends on it.
 Keep personal facts in that file and nowhere else. This file is the *procedure*; that
 one is the *person*. If you learn something new about how they eat, it goes there.
 
+**If `PREFERENCES.md` is missing, empty, or still the template, the owner is new.** The
+[`suggest-recipe` skill](.claude/skills/suggest-recipe/SKILL.md) owns that setup — it
+runs a short interview and writes the file. Don't suggest food before it exists, and
+don't file a recipe with substitutions or scaling guessed from nothing.
+
 ## Repository layout
 
 ```
@@ -138,6 +143,11 @@ from the scratchpad.
   conventions in [`PREFERENCES.md`](PREFERENCES.md).
 - **Steps should be actionable.** Rewrite rambling video narration into numbered
   steps, but do not change the method.
+- **Check the method against the kitchen.** [`PREFERENCES.md`](PREFERENCES.md) lists
+  the equipment and the ingredients that don't get bought. Where a recipe assumes
+  something unavailable — an oven, a can of chickpeas — keep the source's method intact
+  and add a `Claude:` note with the conversion. Never silently rewrite the source's
+  steps to fit.
 - **Slug** = kebab-case, descriptive, no dates. `muhammara-pasta.md`, not
   `recipe-1.md`.
 - **Always put a visible `**Source:**` link in the body**, not just in the
