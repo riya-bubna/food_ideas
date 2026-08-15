@@ -16,8 +16,8 @@ dietary: [vegetarian]
 key_ingredients: [rajma, mozzarella, roti, tomato, onion]
 pantry_ingredients: [green chilli, coriander, lime, chilli lime seasoning, tabasco, chipotle mayo]
 tags: [tacos, pressure-cooker, pan-fry, soak-overnight, crowd-pleaser]
-qualities: [high-fiber, carb-heavy, comfort]
-related: [shredded-tofu-tacos-mango-salsa]
+qualities: [high-protein, high-fiber, carb-heavy, comfort]
+related: [shredded-tofu-tacos-mango-salsa, black-bean-quesadillas]
 ---
 
 **Source:** [Crispy Bean & Cheese Tacos, Saloni Kukreja](https://www.youtube.com/shorts/VZTwfhYFzJw)
@@ -74,9 +74,8 @@ it's easy to tip down the sink at step 1.
 Claude: the salsa goes in *after* frying, not before. Folding it in raw releases
 water and the roti steams instead of crisping.
 
-Claude: lands around 23 g protein per serving, just under the bar I use for
-`high-protein` — close enough that a little extra cheese or a bigger bean portion
-would clear it.
+Claude: lands around 23 g protein per serving, clearing the 20 g bar. Extra cheese or a
+bigger bean portion pushes it further if you want.
 
 Claude: this is the closest thing in your collection to a genuine weeknight
 crowd-pleaser. The rajma can be cooked and mashed a day ahead, which drops the

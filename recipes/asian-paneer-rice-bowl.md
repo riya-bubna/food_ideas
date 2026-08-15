@@ -15,7 +15,7 @@ dietary: [vegetarian]
 key_ingredients: [paneer, cucumber, carrot, rice, spring onion]
 pantry_ingredients: [light soy sauce, dark soy sauce, schezwan sauce, vinegar, sugar, chilli flakes, garlic, sesame seeds, coriander]
 tags: [bowl, marinate, pan-fry, components, weeknight]
-qualities: [comfort]
+qualities: [high-protein, comfort]
 related: [paneer-burrito-bowl]
 ---
 
@@ -74,8 +74,8 @@ explicit about it. Cucumber weeps and would turn the carrot limp and watery.
 Claude: the marinade does double duty — some goes into the rice at step 4 and the
 rest is spooned over at the end. Don't discard it after the paneer comes out.
 
-Claude: about 22 g protein per serving from 200 g paneer, just under the bar I use
-for `high-protein`. Same paneer quantity you use in the
+Claude: about 22 g protein per serving from 200 g paneer, which clears the 20 g bar.
+Same paneer quantity you use in the
 [mango stir fry](mango-paneer-stir-fry.md), but split two ways instead of three, so
 it goes further here.
 

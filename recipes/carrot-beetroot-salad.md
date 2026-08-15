@@ -17,7 +17,7 @@ pantry_ingredients: [black salt, oil, mustard seeds, dried red chilli, curry lea
 tags: [salad, raw, tempering, no-cook-base, summer, quick]
 qualities: [light, low-carb, quick]
 serve_with: [curd]
-related: [beans-poriyal, julienne-curd-salad]
+related: [beans-poriyal, julienne-curd-salad, sesame-ginger-carrot-salad]
 ---
 
 **Source:** [@snehasinghi1 on Instagram](https://www.instagram.com/reel/CqSEMLBgAc4/)
@@ -77,3 +77,7 @@ of eating it with a bowl of curd is what turns it into a light meal.
 
 Claude: grate the beetroot last and mix quickly, or everything turns uniformly pink.
 Some people prefer that; the video keeps the colours distinct.
+
+Claude: another option for a raw carrot salad, with an entirely different accent:
+the [sesame ginger carrot salad](sesame-ginger-carrot-salad.md) — ribbons rather than
+grated, soy and ginger rather than coconut and tempering.

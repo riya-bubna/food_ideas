@@ -16,7 +16,7 @@ dietary: [vegan, vegetarian]
 key_ingredients: [chickpea, tahini, pita, parsley, tomato]
 pantry_ingredients: [plain flour, cumin, ground coriander, cinnamon, red pepper flakes, garlic, lemon, pickles, onion, olive oil]
 tags: [wrap, skillet, no-oven, canned-shortcut, weeknight]
-qualities: [filling, carb-heavy, high-fiber]
+qualities: [high-protein, filling, carb-heavy, high-fiber]
 related: [falafel]
 ---
 
@@ -92,8 +92,8 @@ before deciding whether to cut it.
 Claude: don't skip the 30-minute chill at step 2. Warm mixture slides off the pita
 instead of pressing into it.
 
-Claude: around 22 g protein per serving, just under the bar I use for
-`high-protein` — the tahini does a lot of that work.
+Claude: around 22 g protein per serving, which clears the 20 g bar — the tahini does a
+lot of that work.
 
 Claude: eat immediately. This goes soggy within minutes, so it doesn't reheat and
 isn't a meal-prep candidate the way the air fryer falafel is.

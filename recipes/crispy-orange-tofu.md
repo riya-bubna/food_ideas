@@ -18,7 +18,7 @@ pantry_ingredients: [neutral oil, red chilli flakes, white vinegar, rice vinegar
 tags: [fried, weeknight, takeaway-style, no-oven]
 qualities: [high-protein, comfort]
 serve_with: [rice]
-related: [sticky-lemon-garlic-tofu, miso-sweet-potato-cornmeal-tofu]
+related: [sticky-lemon-garlic-tofu, miso-sweet-potato-cornmeal-tofu, miso-glazed-tofu]
 ---
 
 **Source:** [Crispy Orange Tofu, Thee Burger Dude](https://youtube.com/shorts/CFFCgGyxDKw)
@@ -94,3 +94,6 @@ only deep-fried thing in the collection.
 Claude: the sauce is worth knowing on its own. It would work on the
 [air-fryer paneer tikka](air-fryer-paneer-tikka.md) cubes, or on the air-fried
 cauliflower-style treatment you use for baby corn.
+
+Claude: the [miso glazed tofu](miso-glazed-tofu.md) is the quicker weeknight version
+of this idea — same sticky glazed tofu, no cornstarch dredge and no frying stage.

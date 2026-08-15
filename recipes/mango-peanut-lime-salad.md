@@ -16,7 +16,7 @@ key_ingredients: [mango, cucumber, tofu, peanuts, mint]
 pantry_ingredients: [peanut butter, lime, tamari, green chilli, maple syrup, ginger, sesame seeds, black pepper]
 tags: [salad, no-oven, summer, mango-season, quick]
 qualities: [light, quick]
-related: [pea-spinach-mint-soup, quinoa-mango-black-bean-salad]
+related: [pea-spinach-mint-soup, quinoa-mango-black-bean-salad, sesame-ginger-carrot-salad, rice-paper-dumplings-peanut-sauce]
 ---
 
 **Source:** [@adnansdesipan on Instagram](https://www.instagram.com/reel/DZU11boIilg/)
@@ -85,3 +85,11 @@ Claude: this is your fifth mango recipe. Alongside the
 [tofu tacos](shredded-tofu-tacos-mango-salsa.md) and
 [quinoa salad](quinoa-mango-black-bean-salad.md), you now have enough to build a whole
 mango-season rotation.
+
+Claude: this dressing is the same base as the peanut sauce on the
+[rice paper dumplings](rice-paper-dumplings-peanut-sauce.md) — peanut butter, acid,
+soy, loosened with liquid. Make one and you're most of the way to the other.
+
+Claude: the [sesame ginger carrot salad](sesame-ginger-carrot-salad.md) is the sixth
+mango recipe and the nearest neighbour to this one — same mango-and-Asian-dressing
+idea, but sesame-ginger instead of peanut-lime.

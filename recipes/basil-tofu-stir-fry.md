@@ -65,8 +65,8 @@ and it turns black and bitter if it cooks.
 
 Claude: about 17 g protein per serving — noticeably lower than your other tofu mains,
 because this uses 200 g for two where the
-[sticky lemon tofu](sticky-lemon-garlic-tofu.md) uses 450 g. If you want this to clear
-`high-protein`, double the tofu; nothing else needs changing.
+[sticky lemon tofu](sticky-lemon-garlic-tofu.md) uses 450 g. Still short of the 20 g
+bar — raise the tofu to 250 g and it clears; nothing else needs changing.
 
 Claude: this is the leanest tofu recipe here — 1 tsp of oil, no batter, no coating.
 Worth knowing when the [orange tofu](crispy-orange-tofu.md) feels too heavy.

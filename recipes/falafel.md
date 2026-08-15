@@ -17,7 +17,7 @@ dietary: [vegan, vegetarian]
 key_ingredients: [chickpea, onion, coriander, spring onion, garlic]
 pantry_ingredients: [all-purpose flour, cumin powder, coriander powder, baking powder, red chilli powder, sesame seeds, green chilli, vegetable oil]
 tags: [soak-required, batch-friendly, freezes-well, air-fryer-adaptable]
-qualities: [high-fiber]
+qualities: [high-protein, high-fiber]
 serve_with: [couscous, tzatziki, hummus]
 related: [falafel-smash-wrap, tzatziki, beet-hummus]
 ---
@@ -75,8 +75,8 @@ a coarse crumb that still shows individual bits.
 Claude: the 10–15 minute chill at step 3 is what lets the discs hold together. Skip
 it and they slump in the pan.
 
-Claude: about 20 g protein per serving — respectable, but under the bar I use for
-`high-protein`. With tzatziki alongside, the bowl clears it.
+Claude: about 20 g protein per serving, right at the bar. With tzatziki alongside the
+bowl goes comfortably past it.
 
 Claude: 15 falafel is well beyond two people. The shaped raw discs freeze well, so
 portion and freeze the rest rather than halving the batch — the soak is the slow

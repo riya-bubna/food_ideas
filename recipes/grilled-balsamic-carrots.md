@@ -15,7 +15,7 @@ key_ingredients: [carrot, yogurt, feta, balsamic, ginger]
 pantry_ingredients: [maple syrup, lime, thyme, green onion, coriander]
 tags: [grill, side, make-ahead-glaze, party, no-oven]
 qualities: [light, quick]
-related: [kale-fruit-feta-salad]
+related: [kale-fruit-feta-salad, sesame-ginger-carrot-salad]
 ---
 
 **Source:** [Balsamic Carrots Glazed on the Grill, Two Kooks In The Kitchen](https://twokooksinthekitchen.com/grilled-carrots-with-balsamic-glaze/)
@@ -77,3 +77,7 @@ Claude: a ridged cast-iron grill pan works indoors — same approach as the
 [chimichurri tofu](chimichurri-grilled-tofu.md). Get it properly hot first.
 
 Claude: the glaze keeps well, so it's worth making the full batch even for two.
+
+Claude: the raw counterpart is the
+[sesame ginger carrot salad](sesame-ginger-carrot-salad.md) — same vegetable, no heat
+and no pan, when you want carrots sharp instead of sweet.

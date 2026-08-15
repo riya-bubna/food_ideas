@@ -16,7 +16,7 @@ key_ingredients: [sweet potato, tofu, kale, miso, garlic]
 pantry_ingredients: [maple syrup, avocado oil, vegetable broth, tamari, lemon, cornmeal, cornstarch, garlic powder, onion powder, thyme, spring onion, dijon mustard, olive oil]
 tags: [oven, components, make-ahead, autumn, plant-protein]
 qualities: [high-protein, high-fiber, comfort]
-related: [kale-fruit-feta-salad, chimichurri-grilled-tofu]
+related: [kale-fruit-feta-salad, chimichurri-grilled-tofu, miso-glazed-tofu]
 ---
 
 **Source:** [@plantbasedrd on Instagram](https://www.instagram.com/reels/CzZ591AsrT5/)
@@ -97,3 +97,6 @@ day ahead; only the tofu wants to be fresh from the oven.
 
 Claude: miso is the whole point of the base — it makes a sweet vegetable savoury. No
 substitute really works, so don't make this without it.
+
+Claude: the [miso glazed tofu](miso-glazed-tofu.md) uses the same tub of white miso
+for a fraction of the effort — worth knowing when you've opened one for this.

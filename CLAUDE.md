@@ -230,7 +230,7 @@ findable.
 
 | Quality | Assign when |
 |---|---|
-| `high-protein` | Roughly 25 g+ protein per serving — a substantial meat, fish, egg, paneer, dal, or legume component. Not a sprinkle of nuts. |
+| `high-protein` | Roughly 20 g+ protein per serving — a substantial meat, fish, egg, paneer, dal, or legume component. Not a sprinkle of nuts. See [`PREFERENCES.md`](PREFERENCES.md) for why the bar sits here. |
 | `light` | Around 400 kcal or less per serving. Broths, salads, steamed or grilled things. Leaves you able to eat again in a few hours. |
 | `filling` | Sits heavy and holds you for hours. Big carb or fat load, around 700 kcal+ per serving. |
 | `low-carb` | Roughly 20 g carbs or less — no rice, bread, pasta, potato, or sugar to speak of. |

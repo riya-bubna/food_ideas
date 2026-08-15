@@ -16,6 +16,7 @@ key_ingredients: [tofu, lemon, garlic, broccoli]
 pantry_ingredients: [corn flour, vegetable stock powder, olive oil, soy sauce, maple syrup, spring onion, sesame seeds, dried shallots, chilli]
 tags: [stir-fry, one-pan, weeknight, no-oven]
 qualities: [high-protein, comfort]
+related: [miso-glazed-tofu]
 serve_with: [rice]
 ---
 
@@ -74,3 +75,7 @@ highest-protein recipe in your collection, and it already serves 2.
 
 Claude: press the tofu first if yours is packed in water. The recipe doesn't say
 to, but wet tofu won't take the cornflour coating at step 1.
+
+Claude: if you want the same one-pan glazed tofu with a savoury-sweet Japanese
+accent instead of a citrus one, the [miso glazed tofu](miso-glazed-tofu.md) is the
+swap — and it has a source-provided air fryer method, which this one doesn't.
