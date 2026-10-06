@@ -14,9 +14,12 @@ effort: easy
 dietary: [vegetarian, gluten-free]
 key_ingredients: [rajma, paneer, sweet corn, cucumber, tomato]
 pantry_ingredients: [olive oil, peri peri seasoning, smoked sea salt, curd, coriander, lime]
-tags: [salad, meal-prep, jars, air-fryer, no-oven, make-ahead, batch]
+tags: [salad, meal-prep, jars, air-fryer, no-oven, make-ahead, batch-friendly]
 qualities: [light, high-fiber]
 related: [paneer-burrito-bowl, mexican-burrito-bowl, quinoa-mango-black-bean-salad]
+section: Salads & sides
+index_serves: "4 jars"
+index_time: "45 min + soak"
 ---
 
 **Source:** [tastiest salad | meal prep | 4-5 days batch, Bhavya Johar](https://youtube.com/shorts/E9l3ppM7AFE)

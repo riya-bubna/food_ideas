@@ -15,9 +15,10 @@ effort: medium
 dietary: [vegetarian]
 key_ingredients: [rajma, mozzarella, roti, tomato, onion]
 pantry_ingredients: [green chilli, coriander, lime, chilli lime seasoning, tabasco, chipotle mayo]
-tags: [tacos, pressure-cooker, pan-fry, soak-overnight, crowd-pleaser]
+tags: [tacos, pressure-cooker, pan-fry, soak-overnight, party]
 qualities: [high-protein, high-fiber, carb-heavy, comfort]
 related: [shredded-tofu-tacos-mango-salsa, black-bean-quesadillas]
+section: Mains
 ---
 
 **Source:** [Crispy Bean & Cheese Tacos, Saloni Kukreja](https://www.youtube.com/shorts/VZTwfhYFzJw)

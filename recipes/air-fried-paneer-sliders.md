@@ -14,10 +14,12 @@ total_time_min: 35
 effort: easy
 dietary: [vegetarian, contains-egg]
 key_ingredients: [paneer, mayonnaise, burger buns, cheddar, mozzarella]
-pantry_ingredients: [cornstarch, onion, capsicum, garlic, sriracha, chilli powder, cumin powder, butter, coriander]
-tags: [air-fryer, no-oven, sliders, party, weeknight, cheesy]
+pantry_ingredients: [cornflour, onion, bell pepper, garlic, sriracha, chilli powder, cumin powder, butter, coriander]
+tags: [air-fryer, no-oven, sliders, party, weeknight]
 qualities: [high-protein, carb-heavy, comfort]
 related: [air-fryer-paneer-tikka, crispy-bean-cheese-tacos, tempeh-veggie-burger]
+section: Mains
+index_serves: "2 (4 sliders)"
 ---
 
 **Source:** [@salonikukreja on Instagram](https://www.instagram.com/reel/Db5dqNfILBx/)

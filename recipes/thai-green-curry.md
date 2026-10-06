@@ -13,10 +13,12 @@ total_time_min: 40
 effort: medium
 dietary: [vegan, vegetarian]
 key_ingredients: [coconut milk, coriander, shallot, lemongrass, galangal]
-pantry_ingredients: [green chilli, garlic, coriander seeds, peppercorns, cumin, lemon zest, turmeric, kaffir lime leaves, jaggery, soy sauce, basil]
-tags: [curry, from-scratch-paste, one-pot, freezes-well]
+pantry_ingredients: [green chilli, garlic, coriander seeds, black pepper, cumin, lemon zest, turmeric, kaffir lime leaves, jaggery, soy sauce, basil]
+tags: [curry, one-pot, freezes-well]
 qualities: [comfort, high-fiber]
+related: [sweet-potato-coconut-lime-tofu-curry]
 serve_with: [jasmine rice]
+section: Mains
 ---
 
 **Source:** [@chefvinnyshukla on Instagram](https://www.instagram.com/reels/DGhlWf2zJAh/)

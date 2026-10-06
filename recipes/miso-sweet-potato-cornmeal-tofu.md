@@ -13,10 +13,11 @@ total_time_min: 60
 effort: medium
 dietary: [vegan, vegetarian, gluten-free]
 key_ingredients: [sweet potato, tofu, kale, miso, garlic]
-pantry_ingredients: [maple syrup, avocado oil, vegetable broth, tamari, lemon, cornmeal, cornstarch, garlic powder, onion powder, thyme, spring onion, dijon mustard, olive oil]
-tags: [oven, components, make-ahead, autumn, plant-protein]
+pantry_ingredients: [maple syrup, avocado oil, vegetable broth, tamari, lemon, cornmeal, cornflour, garlic powder, onion powder, thyme, spring onion, dijon mustard, olive oil]
+tags: [oven, components, make-ahead, autumn]
 qualities: [high-protein, high-fiber, comfort]
 related: [kale-fruit-feta-salad, chimichurri-grilled-tofu, miso-glazed-tofu]
+section: Mains
 ---
 
 **Source:** [@plantbasedrd on Instagram](https://www.instagram.com/reels/CzZ591AsrT5/)

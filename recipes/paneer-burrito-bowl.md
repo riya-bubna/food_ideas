@@ -14,9 +14,10 @@ effort: medium
 dietary: [vegetarian, gluten-free]
 key_ingredients: [paneer, rajma, rice, hung curd, mozzarella]
 pantry_ingredients: [chilli powder, cumin powder, garlic powder, onion, bell pepper, garlic, lime, tabasco, coriander, tomato puree, butter]
-tags: [bowl, meal-prep, components, soak-overnight, crowd-pleaser]
+tags: [bowl, meal-prep, components, soak-overnight, party]
 qualities: [high-protein, filling, carb-heavy, comfort]
 related: [crispy-bean-cheese-tacos, mexican-burrito-bowl]
+section: Mains
 ---
 
 **Source:** [@salonikukreja on Instagram](https://www.instagram.com/reels/DL2E_WVzZ3l/)

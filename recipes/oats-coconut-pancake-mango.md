@@ -14,9 +14,10 @@ total_time_min: 30
 effort: easy
 dietary: [vegetarian]
 key_ingredients: [oats, coconut, mango, dates, coconut milk]
-pantry_ingredients: [vanilla essence, milk, baking powder, corn flour, honey, kalonji, salt]
-tags: [breakfast, blender, no-oven, mango-season, no-refined-sugar]
+pantry_ingredients: [vanilla extract, milk, baking powder, cornflour, honey, kalonji]
+tags: [blender, no-oven, mango-season]
 qualities: [comfort, quick]
+section: Breakfast & desserts
 ---
 
 **Source:** [@meltin_mouth on Instagram](https://www.instagram.com/p/DaNp8aYv9-9/)

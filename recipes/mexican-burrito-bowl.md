@@ -7,13 +7,18 @@ source_date: 2025-03-08
 added: 2026-08-05
 cuisine: [mexican, indian]
 meal_type: [lunch, dinner]
+active_time_min: 30
+total_time_min: 45
 effort: medium
 dietary: [vegetarian]
 key_ingredients: [rajma, paneer, rice, avocado, sweet corn]
-pantry_ingredients: [garlic, tomato puree, mixed vegetables, herbs, coriander, cheese, salt, pepper]
-tags: [bowl, layered, moulded, crowd-pleaser, uses-up-veg]
+pantry_ingredients: [garlic, tomato puree, mixed vegetables, herbs, coriander, cheese, black pepper]
+tags: [bowl, party]
 qualities: [high-protein, filling, carb-heavy, comfort]
 related: [paneer-burrito-bowl]
+section: Mains
+index_note: "⚠️ no quantities"
+index_time: "~45 min"
 ---
 
 **Source:** [@ohcheatday on Instagram](https://www.instagram.com/reels/DG7XkD2yumd/)

@@ -14,10 +14,12 @@ total_time_min: 25
 effort: easy
 dietary: [vegan, vegetarian, gluten-free]
 key_ingredients: [green beans, garlic]
-pantry_ingredients: [neutral oil, garlic salt, chilli crisp, red pepper flakes, sesame seeds]
-tags: [side, wok, air-fryer-option, template, quick]
+pantry_ingredients: [garlic salt, chilli crisp, chilli flakes, sesame seeds]
+tags: [side, wok, air-fryer, template]
 qualities: [light, low-carb, quick]
 related: [beans-poriyal]
+section: Salads & sides
+index_note: "✎ also broccoli"
 ---
 
 **Source:** [@hellolisalin on Instagram](https://www.instagram.com/reels/DN1cWCfZBAT/)

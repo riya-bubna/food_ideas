@@ -17,6 +17,7 @@ pantry_ingredients: [olive oil, milk]
 tags: [dip, spread, no-cook, blender]
 qualities: [high-protein, low-carb, quick]
 related: [cashew-basil-yogurt-dip]
+section: Dips & condiments
 ---
 
 **Source:** [@snehasinghi1 on Instagram](https://www.instagram.com/reels/DHXu8syJFwj/)

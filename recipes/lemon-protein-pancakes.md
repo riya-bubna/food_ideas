@@ -13,9 +13,11 @@ total_time_min: 20
 effort: easy
 dietary: [vegetarian, contains-egg, gluten-free]
 key_ingredients: [oats, cottage cheese, lemon, greek yogurt]
-pantry_ingredients: [egg, egg whites, baking powder, vanilla extract, sweetener, salt]
-tags: [blender, high-protein, one-serving, no-oven]
+pantry_ingredients: [egg, egg whites, baking powder, vanilla extract, sweetener]
+tags: [blender, no-oven]
 qualities: [high-protein, comfort]
+section: Breakfast & desserts
+index_note: "⚠️ egg is structural"
 ---
 
 **Source:** [@madelainerascan on Instagram](https://www.instagram.com/reel/DbbhjPWjtPy/)

@@ -14,11 +14,12 @@ total_time_min: 20
 effort: easy
 dietary: [vegan, vegetarian]
 key_ingredients: [french beans, coconut, onion, curry leaves]
-pantry_ingredients: [coconut oil, mustard seeds, urad dal, chana dal, dry red chilli, green chilli, asafoetida]
-tags: [sabzi, tempering, one-pan, quick, everyday]
+pantry_ingredients: [coconut oil, mustard seeds, urad dal, chana dal, dried red chilli, green chilli, asafoetida]
+tags: [sabzi, tempering, one-pan]
 qualities: [light, low-carb, quick]
 serve_with: [rice, roti]
 related: [chinese-garlic-green-beans]
+section: Salads & sides
 ---
 
 **Source:** [Beans Poriyal, Tarla Dalal](https://www.youtube.com/watch?v=NGiN9vscfU4)

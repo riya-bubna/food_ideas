@@ -14,8 +14,10 @@ effort: involved
 dietary: [vegan, vegetarian]
 key_ingredients: [tofu, parsley, garlic, oregano, fresno pepper]
 pantry_ingredients: [olive oil, soy sauce, maple syrup, vegan worcestershire sauce, red wine vinegar]
-tags: [grill, make-ahead, marinate-overnight, summer]
+tags: [grill, make-ahead, marinate, summer]
 qualities: [high-protein, low-carb]
+section: Mains
+index_time: "2.5 hr (30 min active)"
 ---
 
 **Source:** [Chimichurri Grilled Tofu, Sarah's Vegan Kitchen](https://sarahsvegankitchen.com/recipes/chimichurri-tofu/)

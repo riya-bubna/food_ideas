@@ -15,9 +15,11 @@ effort: medium
 dietary: [vegan, vegetarian, contains-nuts]
 key_ingredients: [black beans, cashew, tortilla, spinach, bell pepper]
 pantry_ingredients: [nutritional yeast, chipotle in adobo, soy milk, frozen corn, red onion, olive oil, cumin, paprika, coriander, oregano]
-tags: [quesadilla, skillet, no-oven, make-ahead, blender, dairy-free, meal-prep]
+tags: [quesadilla, one-pan, no-oven, make-ahead, blender, meal-prep]
 qualities: [high-protein, high-fiber, carb-heavy]
 related: [crispy-bean-cheese-tacos, quinoa-mango-black-bean-salad, cashew-basil-yogurt-dip]
+section: Mains
+index_time: "65 min (15 active)"
 ---
 
 **Source:** [@_plantbaes_ on Instagram](https://www.instagram.com/reel/DbQL7LVDhKX/)

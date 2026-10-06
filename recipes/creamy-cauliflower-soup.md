@@ -17,6 +17,7 @@ pantry_ingredients: [butter, olive oil, black pepper, chives, parmesan]
 tags: [soup, blender, one-pot, freezes-well, winter]
 qualities: [light, low-carb, comfort]
 serve_with: [toasted bread]
+section: Soups
 ---
 
 **Source:** [@anahitadhondy on Instagram](https://www.instagram.com/reels/C1171EspSPu/)

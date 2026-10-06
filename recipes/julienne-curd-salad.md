@@ -12,10 +12,11 @@ active_time_min: 15
 total_time_min: 15
 effort: easy
 dietary: [vegetarian, gluten-free]
-key_ingredients: [cabbage, carrot, capsicum, onion, curd]
-pantry_ingredients: [tomato, lemon, chilli flakes, black pepper, coriander, salt]
+key_ingredients: [cabbage, carrot, bell pepper, onion, curd]
+pantry_ingredients: [tomato, lemon, chilli flakes, black pepper, coriander]
 tags: [salad, no-cook, sandwich-filling, make-ahead, raw]
 qualities: [light, low-carb, quick]
+section: Salads & sides
 ---
 
 **Source:** [Chef Prateek's Kitchen](https://www.youtube.com/shorts/rLa4aZYl7Zc)

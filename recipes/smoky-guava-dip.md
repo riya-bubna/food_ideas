@@ -5,12 +5,15 @@ source_url: https://www.instagram.com/reels/DQq8UXukl9k/
 added: 2026-08-05
 cuisine: [indian]
 meal_type: [condiment]
+active_time_min: 10
+total_time_min: 10
 effort: easy
 dietary: [vegan, vegetarian, gluten-free]
 key_ingredients: [guava, mint, coriander]
 pantry_ingredients: [lemon, chaat masala, black salt]
-tags: [dip, chutney, open-flame, no-cook]
+tags: [dip, chutney, no-cook]
 qualities: [light, quick]
+section: Dips & condiments
 ---
 
 **Source:** [Instagram reel](https://www.instagram.com/reels/DQq8UXukl9k/)

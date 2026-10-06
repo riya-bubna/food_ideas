@@ -12,11 +12,12 @@ active_time_min: 25
 total_time_min: 50
 effort: medium
 dietary: [vegetarian, contains-nuts]
-key_ingredients: [red pepper, walnut, pasta, onion, tomato]
+key_ingredients: [bell pepper, walnut, pasta, onion, tomato]
 pantry_ingredients: [olive oil, breadcrumbs, lemon, anar dana powder, tomato paste, kashmiri chilli powder, butter, basil, chilli flakes]
-tags: [pasta, sauce-freezes-well, oven, smoky]
+tags: [pasta, freezes-well, oven]
 qualities: [filling, carb-heavy, high-fiber, comfort]
 related: [muhammara-dip]
+section: Mains
 ---
 
 **Source:** [@ohcheatday on Instagram](https://www.instagram.com/reel/C1yeguCLhhB/)

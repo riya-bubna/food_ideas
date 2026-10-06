@@ -13,10 +13,11 @@ total_time_min: 20
 effort: easy
 dietary: [vegan, vegetarian]
 key_ingredients: [rice, spring onion, bell pepper, carrot, garlic]
-pantry_ingredients: [oil, ginger, green chilli, salt, vinegar, soy sauce, chilli sauce]
-tags: [rice, wok, weeknight, uses-leftovers, quick]
+pantry_ingredients: [ginger, green chilli, vinegar, soy sauce, chilli sauce]
+tags: [rice, wok, weeknight]
 qualities: [carb-heavy, quick, comfort]
 related: [asian-paneer-rice-bowl, air-fryer-paneer-tikka]
+section: Mains
 ---
 
 **Source:** [Fried Rice n chilli-garlic paneer gravy, Bristi Home Kitchen](https://youtu.be/HWtD8_NaFJk)

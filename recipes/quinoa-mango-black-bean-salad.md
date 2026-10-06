@@ -14,9 +14,10 @@ total_time_min: 30
 effort: easy
 dietary: [vegan, vegetarian, gluten-free]
 key_ingredients: [quinoa, mango, black beans, avocado, cucumber]
-pantry_ingredients: [red onion, red bell pepper, cilantro, olive oil, lime, maple syrup, garlic, ginger]
-tags: [salad, meal-prep, no-oven, summer, make-ahead-dressing]
+pantry_ingredients: [red onion, bell pepper, coriander, olive oil, lime, maple syrup, garlic, ginger]
+tags: [salad, meal-prep, no-oven, summer, make-ahead]
 qualities: [high-fiber, quick]
+section: Salads & sides
 ---
 
 **Source:** [Quinoa Mango Salad, Nico's Recipes](https://www.youtube.com/watch?v=huuYIPHUArA)

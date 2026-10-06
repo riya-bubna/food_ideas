@@ -13,10 +13,13 @@ total_time_min: 20
 effort: easy
 dietary: [vegetarian, contains-egg]
 key_ingredients: [avocado, paneer, sourdough, quail egg, onion]
-pantry_ingredients: [lemon, salt, pepper, cheese, green chilli, chilli flakes]
+pantry_ingredients: [lemon, black pepper, cheese, green chilli, chilli flakes]
 tags: [toast, open-sandwich, air-fryer, no-oven, template]
 qualities: [high-protein, carb-heavy, comfort]
 related: [whipped-goat-cheese-pear-toast]
+section: Mains
+index_note: "⚠️ no quantities ✎ egg skipped"
+index_dietary: "Vegetarian (egg skipped)"
 ---
 
 **Source:** [@snap_snax on Instagram](https://www.instagram.com/reel/Dbf2CSxsdBj/)

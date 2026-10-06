@@ -16,6 +16,7 @@ key_ingredients: [peas, spinach, mint, potato, pistachio]
 pantry_ingredients: [cumin seeds, onion, garlic, bay leaf, lemon, sesame seeds, olive oil]
 tags: [soup, blender, one-pot, dukkah, make-ahead]
 qualities: [light, high-fiber, comfort]
+section: Soups
 ---
 
 **Source:** [@adnansdesipan on Instagram](https://www.instagram.com/reels/DQyuFlvDC4G/)

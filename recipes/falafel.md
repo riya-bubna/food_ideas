@@ -15,11 +15,12 @@ total_time_min: 40
 effort: easy
 dietary: [vegan, vegetarian]
 key_ingredients: [chickpea, onion, coriander, spring onion, garlic]
-pantry_ingredients: [all-purpose flour, cumin powder, coriander powder, baking powder, red chilli powder, sesame seeds, green chilli, vegetable oil]
-tags: [soak-required, batch-friendly, freezes-well, air-fryer-adaptable]
+pantry_ingredients: [all-purpose flour, cumin powder, coriander powder, baking powder, chilli powder, sesame seeds, green chilli]
+tags: [soak-overnight, batch-friendly, freezes-well, air-fryer]
 qualities: [high-protein, high-fiber]
 serve_with: [couscous, tzatziki, hummus]
 related: [falafel-smash-wrap, tzatziki, beet-hummus]
+section: Patties, kebabs & snacks
 ---
 
 **Source:** [@funfoodandfrolic on Instagram](https://www.instagram.com/reels/DNNugA8BIpI/)

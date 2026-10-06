@@ -13,11 +13,12 @@ total_time_min: 20
 effort: easy
 dietary: [vegan, vegetarian]
 key_ingredients: [tofu, onion, garlic, ginger, basil]
-pantry_ingredients: [oil, soy sauce, vinegar, chilli flakes, pepper, spring onion, sesame seeds]
-tags: [stir-fry, one-pan, weeknight, no-oven, quick]
+pantry_ingredients: [soy sauce, vinegar, chilli flakes, black pepper, spring onion, sesame seeds]
+tags: [stir-fry, one-pan, weeknight, no-oven]
 qualities: [light, low-carb, quick]
 serve_with: [rice]
 related: [sticky-lemon-garlic-tofu, crispy-orange-tofu]
+section: Mains
 ---
 
 **Source:** [@snehasinghi1 on Instagram](https://www.instagram.com/reel/DTFCQfbk1Wh/)

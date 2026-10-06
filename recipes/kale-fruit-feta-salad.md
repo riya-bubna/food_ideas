@@ -12,9 +12,10 @@ effort: easy
 dietary: [vegetarian, gluten-free]
 key_ingredients: [kale, strawberry, black grapes, orange, feta]
 pantry_ingredients: [balsamic]
-tags: [salad, no-cook, sweet-savoury, quick, template]
+tags: [salad, no-cook, sweet-savoury, template]
 qualities: [light, quick]
 related: [asparagus-feta-salad, miso-sweet-potato-cornmeal-tofu]
+section: Salads & sides
 ---
 
 **Source:** My own version, inspired by

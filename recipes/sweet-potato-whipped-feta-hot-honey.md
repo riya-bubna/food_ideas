@@ -17,6 +17,7 @@ pantry_ingredients: [olive oil, greek yogurt, lemon, chilli flakes, thyme, parsl
 tags: [oven, party, sweet-savoury, make-ahead, autumn]
 qualities: [light, carb-heavy]
 related: [grilled-balsamic-carrots, miso-sweet-potato-cornmeal-tofu]
+section: Salads & sides
 ---
 
 **Source:** [@chef_zouheir on Instagram](https://www.instagram.com/p/DXGxSkJkXXr/)

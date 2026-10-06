@@ -12,11 +12,12 @@ active_time_min: 15
 total_time_min: 45
 effort: easy
 dietary: [vegetarian, gluten-free]
-key_ingredients: [paneer, curd, onion, capsicum, besan]
-pantry_ingredients: [deggi mirch, coriander powder, turmeric, garlic paste, green chilli paste, kasuri methi, oil]
-tags: [air-fryer, marinate, oil-free, tandoori, party]
+key_ingredients: [paneer, curd, onion, bell pepper, besan]
+pantry_ingredients: [deggi mirch, coriander powder, turmeric, garlic paste, green chilli paste, kasuri methi]
+tags: [air-fryer, marinate, tandoori, party]
 qualities: [high-protein]
 related: [paneer-steak]
+section: Mains
 ---
 
 **Source:** [Healthy Paneer Tikka, Deeparth Kitchen](https://www.youtube.com/shorts/d--rsHsl1xI)

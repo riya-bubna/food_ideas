@@ -12,12 +12,13 @@ active_time_min: 10
 total_time_min: 45
 effort: easy
 dietary: [vegan, vegetarian, contains-nuts]
-key_ingredients: [red pepper, walnut, garlic]
+key_ingredients: [bell pepper, walnut, garlic]
 pantry_ingredients: [olive oil, breadcrumbs, pomegranate syrup, cumin, paprika]
 tags: [dip, oven, make-ahead, freezes-well]
 qualities: [light]
 serve_with: [sweet potato fries]
 related: [muhammara-pasta, air-fried-spiral-potatoes]
+section: Dips & condiments
 ---
 
 **Source:** [Muhammara, Fitgreenmind](https://www.youtube.com/shorts/kGeOmcc0eyo)

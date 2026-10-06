@@ -14,10 +14,11 @@ total_time_min: 55
 effort: easy
 dietary: [vegan, vegetarian, gluten-free]
 key_ingredients: [beet, chickpea, tahini, garlic, lemon]
-pantry_ingredients: [baking soda, cumin, ground coriander, olive oil, za'atar, parsley]
+pantry_ingredients: [baking soda, cumin, coriander powder, olive oil, za'atar, parsley]
 tags: [dip, spread, oven, meal-prep, make-ahead, blender]
 qualities: [light]
 related: [falafel]
+section: Dips & condiments
 ---
 
 **Source:** [@rainbowplantlife on Instagram](https://www.instagram.com/reels/CoutHF_pdE5/)

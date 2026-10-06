@@ -13,11 +13,12 @@ total_time_min: 40
 effort: easy
 dietary: [vegan, vegetarian]
 key_ingredients: [tofu, lemon, garlic, broccoli]
-pantry_ingredients: [corn flour, vegetable stock powder, olive oil, soy sauce, maple syrup, spring onion, sesame seeds, dried shallots, chilli]
+pantry_ingredients: [cornflour, vegetable stock powder, olive oil, soy sauce, maple syrup, spring onion, sesame seeds, dried shallots, chilli]
 tags: [stir-fry, one-pan, weeknight, no-oven]
 qualities: [high-protein, comfort]
 related: [miso-glazed-tofu]
 serve_with: [rice]
+section: Mains
 ---
 
 **Source:** [@amandaducks on Instagram](https://www.instagram.com/reels/DLwlZhyp4jW/)

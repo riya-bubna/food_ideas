@@ -11,10 +11,11 @@ total_time_min: 20
 effort: easy
 dietary: [vegetarian, gluten-free]
 key_ingredients: [paneer, bell pepper, carrot, onion, hung curd]
-pantry_ingredients: [black pepper, salt, oil, fresh herbs]
-tags: [components, no-oven, template, weeknight, quick]
+pantry_ingredients: [black pepper, fresh herbs]
+tags: [components, no-oven, template, weeknight]
 qualities: [high-protein, low-carb, quick]
 related: [air-fryer-paneer-tikka, creamy-paneer-basil-dip]
+section: Mains
 ---
 
 **Source:** My own — no external recipe.

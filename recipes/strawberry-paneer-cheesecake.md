@@ -13,9 +13,10 @@ total_time_min: 30
 effort: easy
 dietary: [vegetarian, gluten-free, contains-nuts]
 key_ingredients: [paneer, strawberry, dates, almonds, greek yogurt]
-pantry_ingredients: [rolled oats, ghee, honey, stevia, vanilla essence, salt]
-tags: [dessert, no-bake, make-ahead, high-protein, chilled]
+pantry_ingredients: [rolled oats, ghee, honey, stevia, vanilla extract]
+tags: [no-bake, make-ahead, chilled]
 qualities: [high-protein, comfort]
+section: Breakfast & desserts
 ---
 
 **Source:** [@fit.khurana on Instagram](https://www.instagram.com/reel/DFpjvzfxoaB/)

@@ -12,12 +12,13 @@ active_time_min: 15
 total_time_min: 15
 effort: easy
 dietary: [vegan, vegetarian, gluten-free, contains-nuts]
-key_ingredients: [carrot, beetroot, coconut, peanuts, coriander]
-pantry_ingredients: [black salt, oil, mustard seeds, dried red chilli, curry leaves, urad dal, chana dal]
-tags: [salad, raw, tempering, no-cook-base, summer, quick]
+key_ingredients: [carrot, beet, coconut, peanuts, coriander]
+pantry_ingredients: [black salt, mustard seeds, dried red chilli, curry leaves, urad dal, chana dal]
+tags: [salad, raw, tempering, no-cook, summer]
 qualities: [light, low-carb, quick]
 serve_with: [curd]
 related: [beans-poriyal, julienne-curd-salad, sesame-ginger-carrot-salad]
+section: Salads & sides
 ---
 
 **Source:** [@snehasinghi1 on Instagram](https://www.instagram.com/reel/CqSEMLBgAc4/)

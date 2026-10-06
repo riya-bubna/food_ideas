@@ -12,10 +12,12 @@ total_time_min: 20
 effort: easy
 dietary: [vegetarian, gluten-free]
 key_ingredients: [carrot, yogurt, feta, balsamic, ginger]
-pantry_ingredients: [maple syrup, lime, thyme, green onion, coriander]
-tags: [grill, side, make-ahead-glaze, party, no-oven]
+pantry_ingredients: [maple syrup, lime, thyme, spring onion, coriander]
+tags: [grill, side, make-ahead, party, no-oven]
 qualities: [light, quick]
 related: [kale-fruit-feta-salad, sesame-ginger-carrot-salad]
+section: Salads & sides
+index_note: "✎ adapted"
 ---
 
 **Source:** [Balsamic Carrots Glazed on the Grill, Two Kooks In The Kitchen](https://twokooksinthekitchen.com/grilled-carrots-with-balsamic-glaze/)

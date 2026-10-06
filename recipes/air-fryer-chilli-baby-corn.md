@@ -13,9 +13,10 @@ total_time_min: 25
 effort: easy
 dietary: [vegan, vegetarian]
 key_ingredients: [baby corn, spring onion, ginger, garlic]
-pantry_ingredients: [all-purpose flour, oil, tomato sauce, soy sauce, red chilli sauce, vinegar, sugar, cornstarch, sesame seeds]
-tags: [air-fryer, oil-light, restaurant-style, starter, quick]
+pantry_ingredients: [all-purpose flour, tomato sauce, soy sauce, chilli sauce, vinegar, sugar, cornflour, sesame seeds]
+tags: [air-fryer, restaurant-style]
 qualities: [light, quick]
+section: Patties, kebabs & snacks
 ---
 
 **Source:** [Air Fryer Crispy Chili Baby Corn, Herbed Sensational](https://www.youtube.com/watch?v=CBUUNP9Dw74)

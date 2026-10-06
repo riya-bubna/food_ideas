@@ -14,10 +14,11 @@ total_time_min: 50
 effort: easy
 dietary: [vegan, vegetarian]
 key_ingredients: [chickpea, tahini, pita, parsley, tomato]
-pantry_ingredients: [plain flour, cumin, ground coriander, cinnamon, red pepper flakes, garlic, lemon, pickles, onion, olive oil]
-tags: [wrap, skillet, no-oven, canned-shortcut, weeknight]
+pantry_ingredients: [all-purpose flour, cumin, coriander powder, cinnamon, chilli flakes, garlic, lemon, pickles, onion, olive oil]
+tags: [wrap, one-pan, no-oven, canned-shortcut, weeknight]
 qualities: [high-protein, filling, carb-heavy, high-fiber]
 related: [falafel]
+section: Mains
 ---
 
 **Source:** [@enjoyveganrecipe on Instagram](https://www.instagram.com/reels/DABx98ByhGh/)

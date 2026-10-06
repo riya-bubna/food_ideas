@@ -14,11 +14,12 @@ total_time_min: 30
 effort: medium
 dietary: [vegan, vegetarian]
 key_ingredients: [tofu, orange, ginger, garlic]
-pantry_ingredients: [neutral oil, red chilli flakes, white vinegar, rice vinegar, soy sauce, sugar, cornstarch, sesame oil, nutritional yeast, garlic powder, onion powder, smoked paprika, white pepper]
-tags: [fried, weeknight, takeaway-style, no-oven]
+pantry_ingredients: [chilli flakes, white vinegar, rice vinegar, soy sauce, sugar, cornflour, sesame oil, nutritional yeast, garlic powder, onion powder, smoked paprika, white pepper]
+tags: [weeknight, restaurant-style, no-oven]
 qualities: [high-protein, comfort]
 serve_with: [rice]
 related: [sticky-lemon-garlic-tofu, miso-sweet-potato-cornmeal-tofu, miso-glazed-tofu]
+section: Mains
 ---
 
 **Source:** [Crispy Orange Tofu, Thee Burger Dude](https://youtube.com/shorts/CFFCgGyxDKw)

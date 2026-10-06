@@ -13,10 +13,12 @@ total_time_min: 40
 effort: medium
 dietary: [vegan, vegetarian, contains-nuts]
 key_ingredients: [rice paper, soya granules, zucchini, carrot, peanut butter]
-pantry_ingredients: [miso, soy sauce, garlic, ginger, spring onion, capsicum, rice vinegar, sriracha, chilli flakes]
-tags: [dumplings, pan-fried, no-oven, my-filling]
+pantry_ingredients: [miso, soy sauce, garlic, ginger, spring onion, bell pepper, rice vinegar, sriracha, chilli flakes]
+tags: [dumplings, pan-fry, no-oven]
 qualities: [high-protein, comfort]
 related: [mango-peanut-lime-salad]
+section: Mains
+index_note: "✎ my filling"
 ---
 
 **Source:** [@salonikukreja on Instagram](https://www.instagram.com/reel/DU23N9CDP7c/)

@@ -13,10 +13,11 @@ total_time_min: 10
 effort: easy
 dietary: [vegetarian]
 key_ingredients: [carrot, mango, edamame, ginger, sesame]
-pantry_ingredients: [soy sauce, toasted sesame oil, rice vinegar, honey, garlic, lime, spring onion, coriander, sesame seeds]
-tags: [salad, no-oven, no-cook, make-ahead, mango-season, quick]
+pantry_ingredients: [soy sauce, sesame oil, rice vinegar, honey, garlic, lime, spring onion, coriander, sesame seeds]
+tags: [salad, no-oven, no-cook, make-ahead, mango-season]
 qualities: [light, quick, high-fiber]
 related: [mango-peanut-lime-salad, carrot-beetroot-salad, grilled-balsamic-carrots, miso-glazed-tofu]
+section: Salads & sides
 ---
 
 **Source:** [Sesame Ginger Carrot Salad — Allie Petersen, Naturallie Plant Based](https://naturallieplantbased.com/sesame-ginger-carrot-salad/)

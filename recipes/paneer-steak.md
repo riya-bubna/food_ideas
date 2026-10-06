@@ -14,9 +14,11 @@ effort: medium
 dietary: [vegetarian]
 key_ingredients: [paneer, sweet potato, sweet corn, carrot, tomato]
 pantry_ingredients: [processed cheese, all-purpose flour, parsley, lemon, chilli flakes, oregano, onion, green chilli, ginger, garlic, yogurt, basil, sugar]
-tags: [pan-sear, crusted, components, date-night]
+tags: [pan-fry, components]
 qualities: [high-protein, comfort]
 related: [air-fryer-paneer-tikka]
+section: Mains
+index_note: "⚠️ sauce skipped"
 ---
 
 **Source:** [@snehasinghi1 on Instagram](https://www.instagram.com/reels/DPf3i-fk99J/)

@@ -24,10 +24,15 @@ don't file a recipe with substitutions or scaling guessed from nothing.
 
 ```
 recipes/          One markdown file per recipe. Filename = slug in frontmatter.
-INDEX.md          Table of every recipe. Regenerated whenever a recipe is added.
+INDEX.md          Table of every recipe, plus the "Pairings recorded" tail.
+                  Hand-maintained — add a row when you add a recipe.
 MADE_LOG.md       Reverse-chronological log of what actually got cooked. Untracked.
 PREFERENCES.md    Personal profile. Untracked.
 ```
+
+The frontmatter in `recipes/*.md` is the source of truth for a recipe's facts;
+`INDEX.md` is a hand-kept table over the top of it. Keep the two in step — when they
+disagree, the recipe file wins.
 
 `MADE_LOG.md` and `PREFERENCES.md` are both in `.gitignore` — they're personal, and
 the recipes are the part meant to be shareable. Keep it that way: nothing that
@@ -41,7 +46,14 @@ When a link or recipe text arrives:
    rung that yields the recipe.
 2. **Assign `qualities`** per the section below.
 3. **Write `recipes/<slug>.md`** using the template below.
-4. **Update `INDEX.md`** with a new row.
+4. **Add a row to `INDEX.md`**, in the section named by the recipe's `section`
+   field. Place it beside the recipes it belongs with — the Mains open with the
+   tofu dishes, then the paneer ones — rather than simply at the end.
+
+   While the recipe is fresh, **check the vocabulary you just used against what is
+   already in the collection** (see the reuse rule under Field conventions). This is
+   the only thing standing between this collection and another round of `capsicum`
+   filed beside `bell pepper`.
 5. **Report back** with the recipe rendered in chat, plus anything notable you
    observed (substitutions, ratios that look off, steps the source skipped).
 
@@ -218,7 +230,31 @@ molasses.
   marinating, proofing, multi-day, or heavy knife work.
 - `dietary` — tag what's true of the recipe **as written**. If it's trivially
   veganizable, note that under `## Notes` rather than tagging it `vegan`.
+- `section` — which `INDEX.md` heading the recipe files under. One of: `Mains`,
+  `Soups`, `Breakfast & desserts`, `Patties, kebabs & snacks`, `Salads & sides`,
+  `Dips & condiments`. It records where the recipe's row belongs in the table.
+- `index_note` — the editorial flag to put beside the title in `INDEX.md`
+  (`⚠️ no quantities`, `✎ egg skipped`). `⭐ Own recipe` is not written here; it
+  follows from `source` starting with "Own creation".
+- `index_serves` / `index_time` / `index_dietary` — what the `Serves` / `Time` /
+  `Dietary` columns should read where the plain field would be wrong (`4 jars`,
+  `45 min + soak`, `Vegetarian (egg skipped)`). Seven recipes carry one.
 - Omit a field entirely rather than writing `unknown`.
+
+**Reuse an existing value before inventing one.** `key_ingredients`, `tags` and
+`pantry_ingredients` are what lookups run against, so a synonym is a silent miss —
+`capsicum` filed next to `bell pepper` means neither query finds both. Before adding
+a value, check what's already in use:
+
+```bash
+grep -h "^tags:" recipes/*.md | tr ',[]' '\n\n\n' | sed 's/tags://;s/^ *//' \
+  | grep -v '^$' | sort | uniq -c | sort -rn      # swap in key_ingredients / pantry_ingredients
+```
+
+The same applies to spelling (`yogurt`, not `yoghurt`) and to singular-vs-plural.
+A tag that will only ever match one recipe is not worth adding unless it names a
+**format** — `wrap`, `kebab`, `patty`, `curry` — because format is how recipes get
+recombined.
 
 ## Qualities
 
@@ -260,7 +296,7 @@ Invoke it whenever the question is what to cook — by ingredient, by quality, b
 or open-ended — and whenever the ask is for new ways to combine what's already here.
 Keep the procedure there, not here, so the two can't drift apart.
 
-Two things that belong in this file because they shape more than suggestions:
+Three things that belong in this file because they shape more than suggestions:
 
 **Mix and match is a core purpose, not a bonus.** The point is new ways to eat what's
 already here, not just retrieval of what got filed. So when something *new* arrives,
@@ -272,6 +308,16 @@ example: three slots, each fillable from elsewhere in the collection.
 **Be concrete.** "Serve the falafel with the beet hummus" is useful; "these could be
 combined" is not. Name the two files and say what the combination gives that neither
 does alone.
+
+**There is an outside opinion available.** The `epicure` MCP server (registered in
+[`.mcp.json`](.mcp.json), public and read-only) answers "what goes with this ingredient"
+from a 300-dimensional embedding of 1,790 ingredients. Use it when the collection can't
+answer on its own — an ingredient nothing here is built around, a substitution, a
+pairing worth sanity-checking before proposing. It returns *ingredients*, never dishes,
+so it is raw material for a recombination and never a recipe in itself. Attribute a
+pairing that came from it, the same way `Claude:` and `Me:` stay distinguishable in a
+file. Full guidance is in the
+[`suggest-recipe` skill](.claude/skills/suggest-recipe/SKILL.md).
 
 ## Logging what got cooked
 

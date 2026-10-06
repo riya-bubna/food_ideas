@@ -13,10 +13,11 @@ total_time_min: 40
 effort: easy
 dietary: [vegan, vegetarian, gluten-free]
 key_ingredients: [potato]
-pantry_ingredients: [olive oil, kashmiri red chilli powder, mixed herbs, salt]
-tags: [air-fryer, oil-light, party, kid-friendly, no-deep-fry]
+pantry_ingredients: [olive oil, kashmiri chilli powder, mixed herbs]
+tags: [air-fryer, party, kid-friendly]
 qualities: [light, carb-heavy]
 related: [muhammara-dip]
+section: Patties, kebabs & snacks
 ---
 
 **Source:** [@kirtibhoutika on Instagram](https://www.instagram.com/p/DUqYVJ7E75U/)

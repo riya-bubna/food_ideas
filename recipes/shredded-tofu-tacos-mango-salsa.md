@@ -14,11 +14,12 @@ active_time_min: 15
 total_time_min: 25
 effort: easy
 dietary: [vegan, vegetarian]
-key_ingredients: [tofu, mango, tomato, corn tortilla, jalapeno]
-pantry_ingredients: [soy sauce, taco seasoning, lime, red onion, cilantro, olive oil spray]
+key_ingredients: [tofu, mango, tomato, corn tortilla, jalapeño]
+pantry_ingredients: [soy sauce, taco seasoning, lime, red onion, coriander]
 tags: [tacos, weeknight, meal-prep, no-oven, summer]
 qualities: [high-protein, quick]
-related: [crispy-bean-cheese-tacos]
+related: [crispy-bean-cheese-tacos, loaded-sweet-potato-mexican-tofu]
+section: Mains
 ---
 
 **Source:** [@tishasveggieeats on Instagram](https://www.instagram.com/reels/DK9qN55sMNk/)

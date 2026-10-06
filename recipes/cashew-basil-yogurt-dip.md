@@ -17,6 +17,7 @@ pantry_ingredients: [garlic, lime, sugar, olive oil, chilli flakes]
 tags: [dip, spread, blender, make-ahead, party]
 qualities: [light, low-carb, quick]
 related: [creamy-paneer-basil-dip]
+section: Dips & condiments
 ---
 
 **Source:** [@salonikukreja on Instagram](https://www.instagram.com/salonikukreja/reel/Cs0UJ4RoT8k/)

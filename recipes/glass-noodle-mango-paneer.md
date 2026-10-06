@@ -12,9 +12,10 @@ effort: easy
 dietary: [vegetarian]
 key_ingredients: [glass noodles, mango, paneer, red cabbage, carrot]
 pantry_ingredients: [soy sauce, sesame seeds, turmeric, green beans]
-tags: [noodles, no-oven, template, summer, quick]
-qualities: [carb-heavy, comfort]
+tags: [noodles, no-oven, template, summer]
+qualities: [carb-heavy, quick, comfort]
 related: [mango-paneer-stir-fry, sticky-lemon-garlic-tofu]
+section: Mains
 ---
 
 **Source:** My own — no external recipe.

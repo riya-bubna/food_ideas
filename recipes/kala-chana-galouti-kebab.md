@@ -14,10 +14,11 @@ total_time_min: 45
 effort: medium
 dietary: [vegetarian, gluten-free]
 key_ingredients: [kala chana, onion, coriander, curd, ginger]
-pantry_ingredients: [green chilli, ginger garlic paste, red chilli powder, coriander powder, garam masala, jeera powder, black pepper, chaat masala, elaichi powder, ghee]
+pantry_ingredients: [green chilli, ginger garlic paste, chilli powder, coriander powder, garam masala, cumin powder, black pepper, chaat masala, elaichi powder, ghee]
 tags: [kebab, pressure-cooker, pan-fry, batch-friendly, soak-overnight]
 qualities: [light, high-fiber]
 serve_with: [green chutney]
+section: Patties, kebabs & snacks
 ---
 
 **Source:** [@snehasinghi1 on Instagram](https://www.instagram.com/reels/DGFVIVkpln1/)

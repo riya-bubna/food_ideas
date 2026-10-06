@@ -13,10 +13,11 @@ total_time_min: 35
 effort: medium
 dietary: [vegetarian]
 key_ingredients: [mango, paneer, french beans, bell pepper, ginger]
-pantry_ingredients: [soy sauce, honey, sesame oil, cornflour, garlic, red chilli powder, sesame seeds, spring onion]
-tags: [stir-fry, wok, seasonal, no-oven, summer]
+pantry_ingredients: [soy sauce, honey, sesame oil, cornflour, garlic, chilli powder, sesame seeds, spring onion]
+tags: [stir-fry, wok, no-oven, summer]
 qualities: [light, high-fiber]
 related: [glass-noodle-mango-paneer]
+section: Mains
 ---
 
 **Source:** [@architlost on Instagram](https://www.instagram.com/reels/DXrXrcxDwyU/)

@@ -14,9 +14,10 @@ effort: easy
 dietary: [vegan, vegetarian]
 key_ingredients: [tofu, miso, maple syrup, ginger]
 pantry_ingredients: [soy sauce, rice vinegar, sesame oil, garlic, sesame seeds, spring onion]
-tags: [air-fryer, no-oven, marinade, meal-prep, quick]
+tags: [air-fryer, no-oven, marinate, meal-prep]
 qualities: [high-protein, quick, comfort]
 related: [sticky-lemon-garlic-tofu, crispy-orange-tofu, miso-sweet-potato-cornmeal-tofu, sesame-ginger-carrot-salad]
+section: Mains
 ---
 
 **Source:** [Miso Tofu Recipe — Allie Petersen, Naturallie Plant Based](https://naturallieplantbased.com/miso-glazed-tofu/)

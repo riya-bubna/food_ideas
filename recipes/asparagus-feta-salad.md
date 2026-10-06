@@ -15,9 +15,10 @@ effort: easy
 dietary: [vegetarian, gluten-free]
 key_ingredients: [asparagus, cherry tomato, feta, red onion, dill]
 pantry_ingredients: [olive oil, lemon, garlic, honey, dijon mustard]
-tags: [salad, no-oven, make-ahead, spring, room-temperature]
+tags: [salad, no-oven, make-ahead, spring]
 qualities: [light, low-carb, quick]
 related: [kale-fruit-feta-salad]
+section: Salads & sides
 ---
 
 **Source:** [Cooked and Loved on Instagram](https://www.instagram.com/reels/DMcpSu2ppDE/)

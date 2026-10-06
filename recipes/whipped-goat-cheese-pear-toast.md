@@ -11,8 +11,9 @@ effort: easy
 dietary: [vegetarian]
 key_ingredients: [goat cheese, pear, pistachio, bread]
 pantry_ingredients: [honey, cinnamon]
-tags: [toast, no-oven, sweet-savoury, party, quick]
+tags: [toast, no-oven, sweet-savoury, party]
 qualities: [quick, comfort]
+section: Patties, kebabs & snacks
 ---
 
 **Source:** My own — no external recipe.

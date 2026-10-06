@@ -17,6 +17,7 @@ pantry_ingredients: [light soy sauce, dark soy sauce, schezwan sauce, vinegar, s
 tags: [bowl, marinate, pan-fry, components, weeknight]
 qualities: [high-protein, comfort]
 related: [paneer-burrito-bowl]
+section: Mains
 ---
 
 **Source:** [@snehasinghi1 on Instagram](https://www.instagram.com/reels/DIk_f0nJts8/)

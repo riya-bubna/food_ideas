@@ -17,6 +17,7 @@ pantry_ingredients: [lemon, olive oil]
 tags: [dip, no-cook, make-ahead, summer]
 qualities: [light, low-carb, quick]
 related: [falafel]
+section: Dips & condiments
 ---
 
 **Source:** [@kirtibhoutika on Instagram](https://www.instagram.com/reels/C4H8hp4hdo0/)

@@ -13,10 +13,12 @@ total_time_min: 40
 effort: medium
 dietary: [vegetarian]
 key_ingredients: [tempeh, cheddar, hemp seeds, gochujang, mixed vegetables]
-pantry_ingredients: [onion, garlic, breadcrumbs, cornstarch, olive oil, butter, soy sauce, sriracha, cumin, coriander, chilli powder, mayonnaise, burger buns]
+pantry_ingredients: [onion, garlic, breadcrumbs, cornflour, olive oil, butter, soy sauce, sriracha, cumin, coriander, chilli powder, mayonnaise, burger buns]
 tags: [burger, patty, pan-fry, no-oven, meal-prep, freezes-well]
 qualities: [high-protein, carb-heavy, comfort]
 related: [falafel, kala-chana-galouti-kebab, pea-fritters]
+section: Mains
+index_note: "⚠️ method reconstructed"
 ---
 
 **Source:** [@anupriya.vats on Instagram](https://www.instagram.com/reel/DbZfWxBT2e7/)

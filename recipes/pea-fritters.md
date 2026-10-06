@@ -12,10 +12,11 @@ active_time_min: 20
 total_time_min: 25
 effort: easy
 dietary: [vegetarian]
-key_ingredients: [peas, parsley, mint, yoghurt, garlic]
-pantry_ingredients: [nutritional yeast, plain flour, lemon]
-tags: [fritters, pan-fry, freezer-staple, kid-friendly, budget]
+key_ingredients: [peas, parsley, mint, yogurt, garlic]
+pantry_ingredients: [nutritional yeast, all-purpose flour, lemon]
+tags: [fritters, pan-fry, freezes-well, kid-friendly]
 qualities: [light, high-fiber, quick]
+section: Patties, kebabs & snacks
 ---
 
 **Source:** [@jacobking on Instagram](https://www.instagram.com/p/DRclk9jDNax/)

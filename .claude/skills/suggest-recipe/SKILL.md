@@ -77,14 +77,99 @@ Cheapest path, in order — don't read all of `recipes/` unless you need to:
 3. **The individual files** — only for the shortlist, to get quantities, preference
    callouts, and `related` / `serve_with`.
 
-Useful greps:
+### Looking things up
 
 ```bash
 grep -l "key_ingredients:.*paneer" recipes/*.md      # ingredient, central
 grep -l "pantry_ingredients:.*lemon" recipes/*.md    # ingredient, incidental
 grep -l "qualities:.*high-protein" recipes/*.md      # quality
 grep -h "^serve_with:\|^related:" recipes/*.md       # recorded pairings
+
+# intersect two facets
+comm -12 <(grep -l "qualities:.*high-protein" recipes/*.md | sort) \
+         <(grep -l "qualities:.*quick" recipes/*.md | sort)
 ```
+
+The vocabulary is normalized, so one spelling finds everything — `bell pepper` returns
+the nine recipes that used to be split across `capsicum`, `red pepper` and
+`bell pepper`. Keep it that way when filing.
+
+**If a grep returns nothing, check the word is one the collection actually uses before
+concluding the food is absent.** An empty result means the vocabulary doesn't use that
+term — that's when Epicure's `neighbors` earns its keep.
+
+## Epicure: the flavour-pairing model
+
+An external MCP server, registered in [`.mcp.json`](../../../.mcp.json) as `epicure`
+(`https://epicure-mcp.kaikaku.ai/mcp` — public, read-only, no auth). It exposes a
+300-dimensional embedding of 1,790 ingredients trained on a 4.14M-recipe corpus, plus
+a 2D UMAP atlas and 20 emergent flavour factors.
+
+**What it is for:** answering *"what goes with this?"* when the collection alone can't.
+It is a pairing oracle, not a recipe source — it returns ingredient relationships, never
+dishes.
+
+**Reach for it when:**
+
+- They name an ingredient nothing here is central to, and you'd otherwise be offering a
+  near-miss. Ask Epicure what it wants to sit next to, then look for *that* in `INDEX.md`.
+- You're building a recombination and want to check the pairing actually holds rather
+  than trusting your own taste.
+- They want a substitution — `neighbors` is a direct "what's near this in flavour space"
+  answer.
+- The ask is explicitly exploratory: "surprise me", "what's an unusual pairing for X".
+
+**Don't reach for it when** the collection already answers the question cleanly. A
+`grep` over `key_ingredients` is faster and the answer is a real recipe rather than a
+list of nouns.
+
+### The tools
+
+| Tool | Use it for |
+|---|---|
+| `find_pairings` | The workhorse. Seed ingredients → clustered flavour directions plus bridge ingredients. Pass `is_vegetarian: true` — always, given [`PREFERENCES.md`](../../../PREFERENCES.md). |
+| `neighbors` | Substitutions and "what's like X". Ranked nearest ingredients, no clustering. |
+| `pairing_score` | Check one specific pair before you propose it. Cosine plus a corpus percentile. |
+| `cultural_profile` | Which of eight macro-cuisines an ingredient leans toward. |
+| `compare_on_axis` | Two ingredients on one named axis (sweetness, a cuisine direction). `list_targets` gives valid axes. |
+| `morph` | Directed transformation — rotate an ingredient toward a cuisine or another ingredient. `angle_deg` 0–90; 45 is a balanced morph. |
+| `where_on_atlas` / `closest_mode` | Spatial context; which named flavour region an ingredient occupies. |
+| `pareto_navigate`, `ingredient_on_factor`, `list_factors`, `flavour_correlations`, `list_targets` | Deeper structure. Rarely needed for a cooking question. |
+
+Two API details that aren't guessable: `morph`'s `target` is an **object**, not a
+string — `{"kind": "direction", "name": "South_Asian"}` — and cuisine names use
+underscores (`South_Asian`, `Eastern_European`). `list_targets` returns the valid set.
+
+### Reading its output honestly
+
+- **The corpus skews Western.** Ask it about zucchini and it returns feta, marinara,
+  pesto, rosemary. That is a real signal about the corpus, not about what's worth
+  cooking. When the answer should lean Indian or Asian, use `cultural_profile` to check
+  the ingredient's own lean, or `morph` it toward `South_Asian` — don't just accept the
+  first cluster. Zucchini profiles Mediterranean 0.19 (against a p90 of 0.21) and South
+  Asian −0.05; morphed 45° toward South Asian it lands on ajwain, chana dal and paneer.
+  That second answer is the useful one here, and you only get it by asking for it.
+- **Scores are relative, not absolute.** Every response prints its own reference band
+  (`p10`, `median`, `p90`). A 0.30 means nothing until you read it against that band.
+  Quote the percentile label, not the bare number.
+- **It knows co-occurrence, not cooking.** It cannot tell you a method, a ratio, or
+  whether something is edible together in the quantities involved. It says these things
+  appear in recipes together. The judgement stays yours.
+- **It is not a safety check.** The server says so itself. Allergies, diet and the
+  kitchen constraints in [`PREFERENCES.md`](../../../PREFERENCES.md) are filters you
+  apply *after* Epicure answers, never something you delegate to it.
+
+### How it shows up in a suggestion
+
+Same rules as everything else here: **name the source of the idea.** If a pairing came
+from Epicure rather than from a filed recipe, say so in one clause — "Epicure puts
+zucchini and feta at the top of its vegetable cluster, which is why the
+[asparagus feta salad](../../../recipes/asparagus-feta-salad.md) is the natural host."
+That keeps the model's suggestions distinguishable from the collection's, the same way
+`Claude:` stays distinguishable from `Me:` in a recipe file.
+
+Never present an Epicure pairing as a filed recipe. It's raw material for a
+recombination, and a recombination is still yours to construct and justify.
 
 ## Read the ask along five axes
 
@@ -115,7 +200,7 @@ reasons to ask:
   [salad](../../../recipes/mango-peanut-lime-salad.md).
 - You don't know the time budget and the shortlist spans `easy` to `involved`.
 - They named an ingredient nothing here is central to, and the choice is between a
-  near-miss and going to find something new.
+  near-miss, asking Epicure what it pairs with, and going to find something new.
 
 Do **not** ask when a sensible default exists. Weeknight means `easy` or `medium`.
 "Tonight" means don't propose `involved`. Just pick and say what you assumed.
@@ -186,6 +271,11 @@ instead of suggesting either alone.
 massaged-kale marinade, the air-fryer instead of shallow-frying, tearing tofu instead
 of cubing.
 
+**Follow the model.** Run `find_pairings` on the ingredient in hand, then look for its
+top bridges in `INDEX.md`. Epicure's job here is to point at a recipe you'd have
+overlooked, not to supply the pairing itself — the suggestion is still two named files
+and a reason.
+
 Rules for a good combination:
 
 - **Name both files and say what the pairing gives that neither gives alone.**
@@ -236,5 +326,10 @@ Once they settle on one:
 - Don't invent a recipe that isn't in the collection and present it as though it is. A
   *combination* of two filed recipes is fair game and is the point; a whole new dish
   from nowhere must be labelled as such.
+- Don't hand Epicure a filter it can't enforce. It has a vegetarian flag and nothing
+  else — allergies, the missing oven and the no-canned-legumes rule are yours to apply
+  to its output.
+- Don't quote a bare cosine number. It's meaningless without the reference band printed
+  alongside it; give the percentile label instead.
 - Don't put macro numbers in a suggestion unless asked. If asked, estimate in chat and
   show your working — don't file it.

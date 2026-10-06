@@ -14,9 +14,10 @@ effort: easy
 dietary: [vegan, vegetarian, contains-nuts]
 key_ingredients: [mango, cucumber, tofu, peanuts, mint]
 pantry_ingredients: [peanut butter, lime, tamari, green chilli, maple syrup, ginger, sesame seeds, black pepper]
-tags: [salad, no-oven, summer, mango-season, quick]
+tags: [salad, no-oven, summer, mango-season]
 qualities: [light, quick]
 related: [pea-spinach-mint-soup, quinoa-mango-black-bean-salad, sesame-ginger-carrot-salad, rice-paper-dumplings-peanut-sauce]
+section: Salads & sides
 ---
 
 **Source:** [@adnansdesipan on Instagram](https://www.instagram.com/reel/DZU11boIilg/)

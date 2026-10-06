@@ -13,11 +13,13 @@ total_time_min: 30
 effort: medium
 dietary: [vegetarian]
 key_ingredients: [paneer, bell pepper, onion, garlic, spring onion]
-pantry_ingredients: [corn flour, kashmiri red chilli powder, ginger garlic paste, black pepper, tomato ketchup, soy sauce, vinegar, oil, green chilli]
+pantry_ingredients: [cornflour, kashmiri chilli powder, ginger garlic paste, black pepper, tomato ketchup, soy sauce, vinegar, green chilli]
 tags: [restaurant-style, wok, pan-fry, party]
 qualities: [high-protein, comfort]
 serve_with: [veg fried rice]
 related: [veg-fried-rice, air-fryer-paneer-tikka]
+section: Mains
+index_note: "⚠️ no quantities"
 ---
 
 **Source:** [Chilli Paneer, Bristi Home Kitchen](https://youtube.com/shorts/fGAgGXSpfdM)
