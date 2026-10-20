@@ -1,6 +1,6 @@
 # Recipe Index
 
-58 recipes. Cooked for 2 — the `Serves` column is the source's own figure, so
+60 recipes. Cooked for 2 — the `Serves` column is the source's own figure, so
 scale accordingly.
 
 ## Mains
@@ -35,6 +35,7 @@ scale accordingly.
 | [Avocado Paneer Sourdough Toast](recipes/avocado-paneer-sourdough-toast.md) ⚠️ no quantities ✎ egg skipped | International | avocado, paneer, sourdough, quail egg, onion | high-protein, carb-heavy, comfort | — | 20 min | Easy | Vegetarian (egg skipped) |
 | [Tempeh Veggie Burger](recipes/tempeh-veggie-burger.md) ⚠️ method reconstructed | American | tempeh, cheddar, hemp seeds, gochujang, mixed vegetables | high-protein, carb-heavy, comfort | 4 | 40 min | Medium | Vegetarian |
 | [Falafel Smash Wrap](recipes/falafel-smash-wrap.md) | Middle Eastern | chickpea, tahini, pita, parsley, tomato | high-protein, filling, carb-heavy, high-fiber | 3 | 50 min | Easy | Vegan |
+| [Mashed Chickpea & Dill Sandwich](recipes/mashed-chickpea-dill-sandwich.md) ✎ my swaps | American | chickpea, dill, bell pepper, avocado, bread | high-fiber, carb-heavy, quick | 3 sandwiches | 10 min + soak | Easy | Vegan |
 | [Muhammara Pasta with Caramelized Onion](recipes/muhammara-pasta.md) | Middle Eastern / Italian | bell pepper, walnut, pasta, onion, tomato | filling, carb-heavy, high-fiber, comfort | 4 | 50 min | Medium | Vegetarian, nuts |
 
 ## Soups
@@ -60,6 +61,7 @@ scale accordingly.
 |---|---|---|---|---|---|---|---|
 | [Falafel](recipes/falafel.md) | Middle Eastern | chickpea, onion, coriander, spring onion, garlic | high-protein, high-fiber | 4 | 40 min | Easy | Vegan |
 | [Kala Chana Galouti Kebab](recipes/kala-chana-galouti-kebab.md) | Indian | kala chana, onion, coriander, curd, ginger | light, high-fiber | 4 | 45 min | Medium | Vegetarian, GF |
+| [Soya Seekh Kebab with Cucumber Yogurt Dip](recipes/soya-seekh-kebab.md) | Indian | soya granules, besan, onion, bell pepper, coriander | high-protein, light, high-fiber | 4 (15–16 kebabs) | 45 min | Medium | Vegetarian |
 | [Pea Fritters with Herby Yoghurt Dip](recipes/pea-fritters.md) | British | peas, parsley, mint, yogurt, garlic | light, high-fiber, quick | 3 | 25 min | Easy | Vegetarian |
 | [Air Fryer Crispy Chilli Baby Corn](recipes/air-fryer-chilli-baby-corn.md) | Indo-Chinese | baby corn, spring onion, ginger, garlic | light, quick | 2 | 25 min | Easy | Vegan |
 | [Air-Fried Spiral Potatoes](recipes/air-fried-spiral-potatoes.md) | International | potato | light, carb-heavy | 2 | 40 min | Easy | Vegan, GF |

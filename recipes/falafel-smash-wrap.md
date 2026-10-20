@@ -17,7 +17,7 @@ key_ingredients: [chickpea, tahini, pita, parsley, tomato]
 pantry_ingredients: [all-purpose flour, cumin, coriander powder, cinnamon, chilli flakes, garlic, lemon, pickles, onion, olive oil]
 tags: [wrap, one-pan, no-oven, canned-shortcut, weeknight]
 qualities: [high-protein, filling, carb-heavy, high-fiber]
-related: [falafel]
+related: [falafel, mashed-chickpea-dill-sandwich]
 section: Mains
 ---
 
@@ -98,3 +98,6 @@ lot of that work.
 
 Claude: eat immediately. This goes soggy within minutes, so it doesn't reheat and
 isn't a meal-prep candidate the way the air fryer falafel is.
+
+Claude: for a no-fry version, the [Mashed Chickpea & Dill Sandwich](mashed-chickpea-dill-sandwich.md)
+mash goes into the same pita with the same fillings.
