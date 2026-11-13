@@ -13,6 +13,7 @@ key_ingredients: [guava, mint, coriander]
 pantry_ingredients: [lemon, chaat masala, black salt]
 tags: [dip, chutney, no-cook]
 qualities: [light, quick]
+related: [guava-sweet-potato-chaat]
 section: Dips & condiments
 ---
 

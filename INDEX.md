@@ -1,6 +1,6 @@
 # Recipe Index
 
-60 recipes. Cooked for 2 — the `Serves` column is the source's own figure, so
+63 recipes. Cooked for 2 — the `Serves` column is the source's own figure, so
 scale accordingly.
 
 ## Mains
@@ -25,6 +25,7 @@ scale accordingly.
 | [Mexican Burrito Bowl](recipes/mexican-burrito-bowl.md) ⚠️ no quantities | Mexican / Indian | rajma, paneer, rice, avocado, sweet corn | high-protein, filling, carb-heavy, comfort | — | ~45 min | Medium | Vegetarian |
 | [Paneer Steak with Creamy Tomato-Basil Sauce](recipes/paneer-steak.md) ⚠️ sauce skipped | Indian / Italian | paneer, sweet potato, sweet corn, carrot, tomato | high-protein, comfort | 2 | 40 min | Medium | Vegetarian |
 | [Air Fryer Paneer Tikka](recipes/air-fryer-paneer-tikka.md) | Indian | paneer, curd, onion, bell pepper, besan | high-protein | 2 | 45 min | Easy | Vegetarian, GF |
+| [Afghani Soya Kofta](recipes/afghani-soya-kofta.md) | Indian | soya granules, paneer, onion, cashew, curd | comfort, low-carb | 4 | 50 min | Medium | Vegetarian, GF, nuts |
 | [Air Fried Creamy Paneer Sliders](recipes/air-fried-paneer-sliders.md) | Indian / American | paneer, mayonnaise, burger buns, cheddar, mozzarella | high-protein, carb-heavy, comfort | 2 (4 sliders) | 35 min | Easy | Vegetarian, egg |
 | [Crispy Bean & Cheese Tacos](recipes/crispy-bean-cheese-tacos.md) | Mexican / Indian | rajma, mozzarella, roti, tomato, onion | high-protein, high-fiber, carb-heavy, comfort | 3 | 45 min | Medium | Vegetarian |
 | [Black Bean Quesadillas with Cashew Queso](recipes/black-bean-quesadillas.md) | Mexican | black beans, cashew, tortilla, spinach, bell pepper | high-protein, high-fiber, carb-heavy | 4 | 65 min (15 active) | Medium | Vegan, nuts |
@@ -65,6 +66,7 @@ scale accordingly.
 | [Pea Fritters with Herby Yoghurt Dip](recipes/pea-fritters.md) | British | peas, parsley, mint, yogurt, garlic | light, high-fiber, quick | 3 | 25 min | Easy | Vegetarian |
 | [Air Fryer Crispy Chilli Baby Corn](recipes/air-fryer-chilli-baby-corn.md) | Indo-Chinese | baby corn, spring onion, ginger, garlic | light, quick | 2 | 25 min | Easy | Vegan |
 | [Air-Fried Spiral Potatoes](recipes/air-fried-spiral-potatoes.md) | International | potato | light, carb-heavy | 2 | 40 min | Easy | Vegan, GF |
+| [Guava & Sweet Potato Chaat](recipes/guava-sweet-potato-chaat.md) | Indian | guava, sweet potato, mint, peanuts | light, high-fiber, quick | 1 | 25 min | Easy | Vegan, GF, nuts |
 | [Whipped Goat Cheese & Grilled Pear Toast](recipes/whipped-goat-cheese-pear-toast.md) ⭐ Own recipe | European | goat cheese, pear, pistachio, bread | quick, comfort | — | 15 min | Easy | Vegetarian |
 
 ## Salads & sides
@@ -79,6 +81,7 @@ scale accordingly.
 | [Kale & Fruit Salad with Feta](recipes/kale-fruit-feta-salad.md) ⭐ Own recipe | Mediterranean | kale, strawberry, black grapes, orange, feta | light, quick | — | 15 min | Easy | Vegetarian, GF |
 | [Grilled Balsamic Carrots with Yogurt & Feta](recipes/grilled-balsamic-carrots.md) ✎ adapted | Mediterranean | carrot, yogurt, feta, balsamic, ginger | light, quick | 8 | 20 min | Easy | Vegetarian, GF |
 | [Roasted Sweet Potatoes with Whipped Feta & Hot Honey](recipes/sweet-potato-whipped-feta-hot-honey.md) | Mediterranean | sweet potato, feta, pecan, honey | light, carb-heavy | 4 | 40 min | Easy | Vegetarian, GF, nuts |
+| [Roasted Red Cabbage Salad with Creamy Beet Dressing](recipes/roasted-red-cabbage-beet-salad.md) | European / American | red cabbage, beet, cashew | light, low-carb, high-fiber | 8 | 45 min | Easy | Vegan, GF, nuts |
 | [Beans Poriyal](recipes/beans-poriyal.md) | Indian / South Indian | french beans, coconut, onion, curry leaves | light, low-carb, quick | 4 | 20 min | Easy | Vegan |
 | [Chinese Garlic Green Beans](recipes/chinese-garlic-green-beans.md) ✎ also broccoli | Chinese | green beans, garlic | light, low-carb, quick | 4 | 25 min | Easy | Vegan, GF |
 | [Quinoa Mango & Black Bean Salad](recipes/quinoa-mango-black-bean-salad.md) | Mexican / Latin American | quinoa, mango, black beans, avocado, cucumber | high-fiber, quick | 4 | 30 min | Easy | Vegan, GF |
