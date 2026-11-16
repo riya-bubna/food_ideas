@@ -16,7 +16,7 @@ key_ingredients: [sweet potato, feta, pecan, honey]
 pantry_ingredients: [olive oil, greek yogurt, lemon, chilli flakes, thyme, parsley, black pepper]
 tags: [oven, party, sweet-savoury, make-ahead, autumn]
 qualities: [light, carb-heavy]
-related: [grilled-balsamic-carrots, miso-sweet-potato-cornmeal-tofu]
+related: [grilled-balsamic-carrots, miso-sweet-potato-cornmeal-tofu, smashed-sweet-potato-garlic-tofu-dip]
 section: Salads & sides
 ---
 

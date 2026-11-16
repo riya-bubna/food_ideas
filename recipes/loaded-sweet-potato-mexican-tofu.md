@@ -14,7 +14,7 @@ key_ingredients: [sweet potato, tofu, avocado, tomato, red onion]
 pantry_ingredients: [tomato puree, tomato paste, coriander, lime, yogurt, olive oil]
 tags: [oven, weeknight, components]
 qualities: [high-protein, high-fiber, carb-heavy]
-related: [shredded-tofu-tacos-mango-salsa, sweet-potato-whipped-feta-hot-honey, mexican-burrito-bowl]
+related: [shredded-tofu-tacos-mango-salsa, sweet-potato-whipped-feta-hot-honey, mexican-burrito-bowl, smashed-sweet-potato-garlic-tofu-dip]
 section: Mains
 index_serves: "2 potatoes"
 ---

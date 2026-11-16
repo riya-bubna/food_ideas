@@ -18,11 +18,15 @@ pantry_ingredients: [green chilli, ginger garlic paste, chilli powder, coriander
 tags: [kebab, pressure-cooker, pan-fry, batch-friendly, soak-overnight]
 qualities: [light, high-fiber]
 serve_with: [green chutney]
+related: [soya-seekh-kebab, hara-bhara-kebab]
 section: Patties, kebabs & snacks
 ---
 
 **Source:** [@snehasinghi1 on Instagram](https://www.instagram.com/reels/DGFVIVkpln1/)
 — Episode 36 of #CleanEatsWithSneha
+
+Other kebabs: [Soya Seekh Kebab](soya-seekh-kebab.md),
+[Hara Bhara Kebab](hara-bhara-kebab.md).
 
 ## Ingredients
 

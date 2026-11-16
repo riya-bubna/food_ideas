@@ -1,6 +1,6 @@
 # Recipe Index
 
-63 recipes. Cooked for 2 — the `Serves` column is the source's own figure, so
+65 recipes. Cooked for 2 — the `Serves` column is the source's own figure, so
 scale accordingly.
 
 ## Mains
@@ -16,6 +16,7 @@ scale accordingly.
 | [Maple Miso Whipped Sweet Potatoes with Cornmeal Crusted Tofu](recipes/miso-sweet-potato-cornmeal-tofu.md) | American | sweet potato, tofu, kale, miso, garlic | high-protein, high-fiber, comfort | 4 | 60 min | Medium | Vegan, GF |
 | [Spicy Sweet Potato & Coconut Lime Tofu Curry](recipes/sweet-potato-coconut-lime-tofu-curry.md) ✎ method from video frames | Thai | tofu, sweet potato, coconut milk, thai red curry paste, lime | high-protein, filling, comfort | 2 | 40 min | Medium | Vegan |
 | [Loaded Sweet Potato with Mexican Scramble Tofu](recipes/loaded-sweet-potato-mexican-tofu.md) | Mexican | sweet potato, tofu, avocado, tomato, red onion | high-protein, high-fiber, carb-heavy | 2 potatoes | 50 min | Easy | Vegan |
+| [Crispy Smashed Sweet Potatoes with Creamy Garlic Tofu Dip](recipes/smashed-sweet-potato-garlic-tofu-dip.md) | International | sweet potato, tofu, garlic | high-protein, light, carb-heavy | 1 | 40 min | Easy | Vegan, GF |
 | [Paneer Burrito Bowl](recipes/paneer-burrito-bowl.md) | Mexican / Indian | paneer, rajma, rice, hung curd, mozzarella | high-protein, filling, carb-heavy, comfort | 2 | 45 min | Medium | Vegetarian, GF |
 | [Asian Paneer Rice Bowl](recipes/asian-paneer-rice-bowl.md) | Asian / Indian | paneer, cucumber, carrot, rice, spring onion | high-protein, comfort | 2 | 40 min | Medium | Vegetarian |
 | [Rice Paper Dumplings in Spicy Peanut Sauce](recipes/rice-paper-dumplings-peanut-sauce.md) ✎ my filling | Asian | rice paper, soya granules, zucchini, carrot, peanut butter | high-protein, comfort | 2 | 40 min | Medium | Vegan, nuts |
@@ -63,6 +64,7 @@ scale accordingly.
 | [Falafel](recipes/falafel.md) | Middle Eastern | chickpea, onion, coriander, spring onion, garlic | high-protein, high-fiber | 4 | 40 min | Easy | Vegan |
 | [Kala Chana Galouti Kebab](recipes/kala-chana-galouti-kebab.md) | Indian | kala chana, onion, coriander, curd, ginger | light, high-fiber | 4 | 45 min | Medium | Vegetarian, GF |
 | [Soya Seekh Kebab with Cucumber Yogurt Dip](recipes/soya-seekh-kebab.md) | Indian | soya granules, besan, onion, bell pepper, coriander | high-protein, light, high-fiber | 4 (15–16 kebabs) | 45 min | Medium | Vegetarian |
+| [Hara Bhara Kebab](recipes/hara-bhara-kebab.md) ⚠️ cooking step not given | Indian | peas, spinach, broccoli, potato, paneer, cauliflower | light, high-fiber | — | 50 min | Medium | Vegetarian, nuts |
 | [Pea Fritters with Herby Yoghurt Dip](recipes/pea-fritters.md) | British | peas, parsley, mint, yogurt, garlic | light, high-fiber, quick | 3 | 25 min | Easy | Vegetarian |
 | [Air Fryer Crispy Chilli Baby Corn](recipes/air-fryer-chilli-baby-corn.md) | Indo-Chinese | baby corn, spring onion, ginger, garlic | light, quick | 2 | 25 min | Easy | Vegan |
 | [Air-Fried Spiral Potatoes](recipes/air-fried-spiral-potatoes.md) | International | potato | light, carb-heavy | 2 | 40 min | Easy | Vegan, GF |

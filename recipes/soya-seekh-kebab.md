@@ -17,14 +17,15 @@ key_ingredients: [soya granules, besan, onion, bell pepper, coriander]
 pantry_ingredients: [garlic, ginger, green chilli, cumin powder, coriander powder, kashmiri chilli powder, chilli powder, cinnamon, soy sauce, yogurt, cucumber, black pepper]
 tags: [kebab, pan-fry, no-oven, weeknight, party, dip]
 qualities: [high-protein, light, high-fiber]
-related: [kala-chana-galouti-kebab, tzatziki, creamy-paneer-basil-dip, afghani-soya-kofta]
+related: [kala-chana-galouti-kebab, hara-bhara-kebab, tzatziki, creamy-paneer-basil-dip, afghani-soya-kofta]
 section: Patties, kebabs & snacks
 ---
 
 **Source:** [Trending Soya Seekh Kabab, Cook with Dillifoodies on YouTube](https://www.youtube.com/shorts/AQjJoeFv4R8)
 — recipe from the creator's pinned comment
 
-Another kebab: [Kala Chana Galouti Kebab](kala-chana-galouti-kebab.md). For a
+Other kebabs: [Kala Chana Galouti Kebab](kala-chana-galouti-kebab.md),
+[Hara Bhara Kebab](hara-bhara-kebab.md). For a
 higher-protein dip, see the notes on [Creamy Paneer Basil Dip](creamy-paneer-basil-dip.md).
 
 ## Ingredients

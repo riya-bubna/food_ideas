@@ -16,7 +16,7 @@ key_ingredients: [paneer, basil, garlic]
 pantry_ingredients: [olive oil, milk]
 tags: [dip, spread, no-cook, blender]
 qualities: [high-protein, low-carb, quick]
-related: [cashew-basil-yogurt-dip]
+related: [cashew-basil-yogurt-dip, smashed-sweet-potato-garlic-tofu-dip]
 section: Dips & condiments
 ---
 
